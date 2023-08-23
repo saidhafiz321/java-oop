@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author yeddev
+ *
+ */
+module Inheritance {
+}
